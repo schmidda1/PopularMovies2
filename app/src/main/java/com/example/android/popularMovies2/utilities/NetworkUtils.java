@@ -31,7 +31,7 @@ import java.util.Scanner;
 public final class NetworkUtils {
     public static int sortPref;
     private static String finalUrl;
-    private static final String api_key = "aaa19448ff2bdaf5f7d55f5c04791e9d\n";
+    private static final String api_key = "";
 
     private static final String TAG = NetworkUtils.class.getSimpleName();
 
